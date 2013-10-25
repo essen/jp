@@ -9,10 +9,10 @@ particular writing style.
 Dictionaries
 ------------
 
-[Jeffrey's Japanese⇔English Dictionary Server!](http://rut.org/cgi-bin/j-e/sjis/tty/dict)
-[Denshi Jisho](http://jisho.org/)
+ *  [Jeffrey's Japanese⇔English Dictionary Server!](http://rut.org/cgi-bin/j-e/sjis/tty/dict)
+ *  [Denshi Jisho](http://jisho.org/)
 
 Transportation
 --------------
 
-[Jorudan TrainRouteFinder](http://www.jorudan.co.jp/english/norikae/)
+ *  [Jorudan TrainRouteFinder](http://www.jorudan.co.jp/english/norikae/)
