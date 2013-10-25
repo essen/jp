@@ -24,6 +24,6 @@ To avoid jetlag when going to and from Tokyo:
    *  Plan arrival around 4pm Tokyo time.
    *  Sleep 3-4 hours in the plane.
  *  From Tokyo to France
-   *  Leave in the morning around 11pm.
+   *  Leave in the morning around 11am.
    *  Plan arrival around 10pm France time.
    *  Sleep 3-4 hours in the plane.
